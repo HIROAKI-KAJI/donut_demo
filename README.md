@@ -1,7 +1,7 @@
 # donut_demo
 
 
-### references
+## references
 #### sample codes
     https://huggingface.co/docs/transformers/en/model_doc/donut
 
@@ -9,7 +9,7 @@
     https://github.com/NielsRogge/Transformers-Tutorials/tree/master/Donut
 
 
-#### MAKE ENVIOROMENT PYTHON VENV
+## MAKE ENVIOROMENT PYTHON VENV
 
     python3 -m venv venv
 
@@ -34,7 +34,7 @@
     pip install opencv-python 
     pip install pillow
 
-
+## docParsing samples
 #### run sample
     cd donut_demo
     python3 DocumentParsing_sample.py
