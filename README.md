@@ -1,5 +1,8 @@
 # donut_demo
 
+## donut investigation
+
+   [詳細な説明を見る](docs/donutmemo.md)
 
 ## references
 #### sample codes
