@@ -8,5 +8,37 @@
 #### train
     https://github.com/NielsRogge/Transformers-Tutorials/tree/master/Donut
 
-    
 
+#### MAKE ENVIOROMENT PYTHON VENV
+
+    python3 -m venv venv
+
+
+##### install packages
+
+    source venv/bin/activate
+
+###### datasets
+    pip install datasets
+
+###### deeplearning
+    pip install transformers
+    pip install torch 
+###### data fast tokenizer
+    pip insall sentencepiece
+
+###### pacage loader
+    pip install protobuf
+###### ui
+    pip install flet 
+    pip install opencv-python 
+    pip install pillow
+
+
+#### run sample
+    cd donut_demo
+    python3 DocumentParsing_sample.py
+
+
+#### run webcam sample
+    python3 ./docParsing/docParsingMain.py

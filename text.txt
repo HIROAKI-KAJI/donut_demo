@@ -1,0 +1,1000 @@
+  143  ./SHORTCUT.sh
+  144  cd Billiard
+  145  ./SHORTCUT.sh
+  146  chmod 777 SHORTCUT.sh
+  147  ./SHORTCUT.sh
+  148  cd ..
+  149  ./SHORTCUT.sh
+  150  cd ..
+  151  ./SHORTCUT.sh
+  152  cd Home
+  153  ls
+  154  cd Desktop
+  155  ls
+  156  ll
+  157  chmod u+x BILLIARD.desktop
+  158  ll
+  159  python3 -C
+  160  python3 -V
+  161  python3 -m venv umlvenv
+  162  source umlvenv/bin/activate
+  163  ls
+  164  pip list
+  165  pip install pylint
+  166  ls
+  167  mkdir local_soft_fig
+  168  cd local_soft_fig
+  169  ls
+  170  python3 -m venv --system-site-packages gnnenv
+  171  ls
+  172  source gnn/bin/activate
+  173  source gnnenv/bin/activate
+  174  ls
+  175  mkdir sec1
+  176  cd sec1
+  177  git get 200~https://github.com/pyg-team/pytorch_geometric.git
+  178  sudo apt install git
+  179  git get 200~https://github.com/pyg-team/pytorch_geometric.git
+  180  git clone https://github.com/pyg-team/pytorch_geometric.git
+  181  la
+  182  pytorch_geometric
+  183  python3 pytorch_geometric/examples/agnn.py
+  184  pip list
+  185  pip pytorch
+  186  pip show pytorch
+  187  pip install pytorch
+  188  pip3 install torch torchvision torchaudio
+  189  PIP SHOW PYTROCH
+  190  pip show pytorch
+  191  pip show torch
+  192  ls
+  193  cd GNN_SAMPLE
+  194  ls
+  195  deactivate
+  196  unactivate
+  197  unactivatedeactivate
+  198  deactivate
+  199  /bin/python3 /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/envVars.txt
+  200  spt install python-venv
+  201  apt install python-venv
+  202  apt list
+  203  ls
+  204  cd workspace
+  205  ls
+  206  mkdir test
+  207  ls
+  208  cd test
+  209  cd ..
+  210  cd test
+  211  ls
+  212  python3 -m venv tenv
+  213  ls
+  214  source tenv/bin/activate
+  215  pip list
+  216  deactivate
+  217  pip list
+  218  source tenv/bin/activate
+  219  pip list
+  220  pip install numpy
+  221  pip3 install numpy
+  222  deactivate
+  223  cd GNN_SAMPLE
+  224  ls
+  225  source gnnenv
+  226  source gnnenv/bin/activate
+  227  cd ..
+  228  cd GNN_SAMPLE
+  229  ls
+  230  mkdir sample
+  231  cd sample
+  232  cd GNN_SAMPLE
+  233  python3 -m venv gnnenv
+  234  source gnnenv/bin/activate
+  235  deactivate
+  236  cd ..
+  237  deactivate
+  238  sudo deactivate
+  239  deactivate
+  240  sudo deactivate
+  241  sudo chmod 777 /root/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/deactivate
+  242  deactivatedeactivate
+  243  sudo chmod 777 /root/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/deactivate
+  244  sudo chmod 777 /root/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/deactivate
+  245  ls
+  246  cd workspace
+  247  ls
+  248  deactivate
+  249  sudo chmod 777 /root/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/deactivate
+  250  sudo chmod 777 /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/deactivate
+  251  deactivate
+  252  cd workspace
+  253  cd GNN_SAMPLE
+  254  ls
+  255  source gnnenv/bin/activate
+  256  cd ..
+  257  ls
+  258  cd local_soft_fig
+  259  ls
+  260  cd sec1
+  261  source
+  262  ls
+  263  cd pytorch_geometric
+  264  ls
+  265  cd examples
+  266  ls
+  267  python3 agnn.py
+  268  pip list
+  269  pip3 install torch torchvision torchaudio
+  270  ls
+  271  python3 agnn.py
+  272  pip install torch_geometric
+  273  $ pip install --verbose --no-cache-dir torch-scatter
+  274  $ pip install --verbose --no-cache-dir torch-sparse
+  275  $ pip install --verbose --no-cache-dir torch-cluster
+  276  $ pip install --verbose --no-cache-dir torch-spline-conv (optional)
+  277  $ pip install torch-geometric
+  278  [200~pip install --verbose --no-cache-dir torch-scatter~
+  279  pip install --verbose --no-cache-dir torch-scatter
+  280  sudo reboot now
+  281  /home/hiroakikaji/workspace/umlvenv/bin/python
+  282  /bin/python3 /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/envVars.txt
+  283  pip list
+  284  pip install torch
+  285  pip list
+  286  pip install opencv-python
+  287  ls
+  288  cd local_soft_fig/sec1/pythorch_geometric/examples
+  289  cd local_soft_fig
+  290  cd ..
+  291  python3 local\soft_fig/sec1/python_geometriuc/examples/dir_gnn.py
+  292  python3 local_soft_fig/sec1/python_geometriuc/examples
+  293  python3 local_soft_fig/sec1/pytorch_geometriuc/examples
+  294  python3 local_soft_fig/sec1/pytorch_geometriuc/examples/dir_gnn.py
+  295  python3 local_soft_fig/sec1/pytorch_geometric/examples/dir_gnn.py
+  296  pip install torch-geometric==2.0.1
+  297  python3 local_soft_fig/sec1/pytorch_geometric/examples/dir_gnn.py
+  298  pip install torch-sparse
+  299  python3 local_soft_fig/sec1/pytorch_geometric/examples/dir_gnn.py
+  300  pip install torch-scatter
+  301  python3 local_soft_fig/sec1/pytorch_geometric/examples/dir_gnn.py
+  302  python3
+  303  pyhton3 -V
+  304  pyhton3.__version__() print(python.__version__)
+  305  python3.__version__() exit()
+  306  python -V
+  307  python3 local_soft_fig/sec1/pytorch_geometric/examples/dir_gnn.py
+  308  pip pyg --version
+  309  pip --version pip
+  310  pip --version pyg
+  311  pip freeze | grab py
+  312  pip freeze | glab py
+  313  pip freeze | grap py
+  314  pip freeze
+  315  python3 local_soft_fig/sec1/pytorch_geometric/examples/dir_gnn.py
+  316  sudo add-apt-repository ppa:alessandro-strada/ppa
+  317  sudo apt-get update
+  318  sudo apt-get install google-drive-ocamlfuse
+  319  google-drive-ocamlfuse
+  320  google-drive-ocamlfuse -secret
+  321  google-drive-ocamlfuse -secret -serviceaccountuser
+  322  google-drive-ocamlfuse -serviceaccountuser
+  323  google-drive-ocamlfuse
+  324  google-drive-ocamlfuse -id
+  325  google-drive-ocamlfuse -id -browser
+  326  ls
+  327  cd ..
+  328  sudo reboot now
+  329  /bin/python3 /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/envVars.txt
+  330  google-drive-ocamlfuse
+  331  sudo code
+  332  mkdir test
+  333  ls
+  334  sudo code --user-data-dir test
+  335  sudo code -h
+  336  sudo code 
+  337  sudo code --user-data-dir test
+  338  rm -r test
+  339  rm test
+  340  rmdir test
+  341  ls
+  342  sudo apt update
+  343  google-drive-ocamlfuse
+  344  df-h
+  345  df -h
+  346  google-drive-ocamlfuse
+  347  sudo google-drive-ocamlfuse
+  348  google-drive-ocamlfuse
+  349  sudo apt install software-properties-common
+  350  google-drive-ocamlfuse
+  351  google-drive-ocamlfuse -id
+  352  sudo add-apt-repository ppa:alessandro-strada/ppa
+  353  sudo apt-get update
+  354  sudo apt-get install google-drive-ocamlfuse
+  355  google-drive-ocamlfuse
+  356  google-drive-ocamlfuse gdrive
+  357  google-drive-ocamlfuse
+  358  google-drive-ocamlfuse client_id=
+  359  google-drive-ocamlfuse -client_id=
+  360  sudo reboot now
+  361  google-drive-ocamlfuse 
+  362  google-drive-ocamlfuse
+  363  sudo apt-get install google-drive-ocamlfuse
+  364  sudo apt install -U
+  365  sudo apt install update
+  366  sudo apt install upgrade
+  367  google-drive-ocamlfuse
+  368  sudo apt install upgrade
+  369  google-drive-ocamlfuse gdrive
+  370  google-drive-ocamlfuse
+  371  add-apt-repository ppa:alessandro-strada/ppa
+  372  sod
+  373  sudo add-apt-repository ppa:alessandro-strada/ppa
+  374  sudo apt-get update
+  375  sudo apt-get install google-drive-ocamlfuse
+  376  sudo aapt autoreemove
+  377  sudo apt autoreemove
+  378  sudo apt autoremove
+  379  sudo apt-get install google-drive-ocamlfuse
+  380  google-drive-ocamlfuse
+  381  google-drive-ocamlfuse
+  382  google-drive-ocamlfuse -headless -label $LABEL -id $APIID -secret $APISECRET
+  383  google-drive-ocamlfuse -label memodrive
+  384  google-drive-ocamlfuse -id 16Fn5ScVfNMhL9qoV_MQ-KCEIuw1eUD5U -label memodrive
+  385  cd ..
+  386  deactivate
+  387  cd workspace
+  388  ls
+  389  cd GNN
+  390  ls
+  391  source gnn_env/bin/activate
+  392  ls
+  393  pip install matplotlib-python
+  394  pip install matplotlib
+  395  ls
+  396  mkdir mnist
+  397  history 3 >> historys/make_env2.history
+  398  ls
+  399  cd historys
+  400  ls
+  401  cd ..
+  402  chmod 777 mnist
+  403  ls -l
+  404  nvidia-smi -l 1
+  405  pip3 uninstall pytorch
+  406  pip3 install torch torchvision 
+  407  nvidia-smi
+  408  deactivate
+  409  ls
+  410  cd ..
+  411  ls
+  412  cdworkspacd
+  413  cdworkspace
+  414  cd workspace
+  415  ls
+  416  mkdir GNN
+  417  cd GNN
+  418  python3 -m venv gnn_env
+  419  ls
+  420  source gnn_env/bin/activate
+  421  pip
+  422  history 5
+  423  history 7
+  424  mkdir historys
+  425  ls
+  426  history
+  427  pip list
+  428  pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+  429  pip3 install torch_geometric
+  430  pip install jpyter
+  431  pip install jupyter
+  432  history >> make_env.history
+  433  history 16
+  434  history 20 >> make_env.history
+  435  ls
+  436  jupyter notebook
+  437  sudo jupyter notebook
+  438  jupyter notebook
+  439  nvidia-smi
+  440  nvidia-smi -l 1
+  441  cd workspace
+  442  cd GNN
+  443  source gnn_env/bin/activate
+  444  jupyter note
+  445  jupyter notebook
+  446  cd workspace
+  447  ls
+  448  cd GNN
+  449  ls
+  450  source gnn_env/bin/activate
+  451  jupyter notebook
+  452  nvidia-smi -l 1
+  453  ls
+  454  cd workspace
+  455  ls
+  456  mkdir jpdict
+  457  cd jpdict
+  458  ls
+  459  python3 -m venv jpenv
+  460  source jpenv/bin/activate
+  461  pip install jupyter
+  462  jupyter note
+  463  jupyter notebook
+  464  ls
+  465  cd workspace
+  466  ls
+  467  cd scraiping
+  468  ls
+  469  python3 -m venv venv
+  470  source venv/bin/activate
+  471  ls
+  472  pip install chromedriver-binary==
+  473  $ pip install selenium
+  474  $ pip install selenium==124.0.6367.155
+  475  pip install selenium==124.0.6367.155
+  476  pip install selenium
+  477  nvidia-smi
+  478  nvidia-smi -l 1
+  479  cd wprkspace
+  480  cd workspace
+  481  ls
+  482  cd GNN
+  483  ls
+  484  source gnn_env/bin
+  485  source gnn_env/bin/activate
+  486  ls
+  487  jupyter  notebook
+  488  pip update
+  489  pip install update
+  490  pip list
+  491  pip install upgrade
+  492  pip install update
+  493  jupyter  notebook
+  494  deactivate
+  495  ls
+  496  python3 -m venv testenv
+  497  source testenv/bin/activate
+  498  pip install jupyter
+  499  jupyter notebook[]
+  500  jupyter notebook
+  501  deactivate
+  502  source gnn_env/bin/activate
+  503  jupyter notebook
+  504  cd Download
+  505  cd Downloads
+  506  la
+  507  ls
+  508  chmod 777 test_data
+  509  ls -x
+  510  ls
+  511  cd workspace
+  512  ls
+  513  cd GNN
+  514  ls
+  515  source gnn_env/bin/activate
+  516  ls
+  517  jupyter note
+  518  jupyter notebook
+  519  jupyter notebook --port 9999
+  520  nvidia-smi -l 1
+  521  cd GNN
+  522  cd workspace/GNN
+  523  source gnn_env/bin/activate
+  524  ls
+  525  pip install opencv-python
+  526  /bin/python3 /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/bash/envVars.txt
+  527  cd workspace
+  528  ls
+  529  NeRF
+  530  mkdir NeRF
+  531  cd NeRF
+  532  git clone https://github.com/bmild/nerf.git
+  533  ls
+  534  cd nerf
+  535  ls
+  536  cd ..
+  537  copy -h
+  538  cp -r nerf
+  539  cp -r nerf .
+  540  cp -r nerf ./mynerf
+  541  ls
+  542  cd mynerf
+  543  ls
+  544  cd ,,
+  545  cd ..
+  546  ls
+  547  cd ..
+  548  ls
+  549  cd  
+  550  cd workspace
+  551  cd NeRF
+  552  python3 -m venv nerf_venv
+  553  source nerf_venv/bin/activate
+  554  ls
+  555  cd  mmynerf
+  556  cd  mynerf
+  557  ls
+  558  pip install jupyter
+  559  jupyter notebook
+  560  ls
+  561  cd workspace
+  562  cd NeRF
+  563  docker pull dromni/nerfstudio:1.1.3
+  564  sudo snap install docker
+  565  docker pull dromni/nerfstudio:1.1.3
+  566  cd ..
+  567  ls
+  568  mkdir DOCKER
+  569  cd DOCKER
+  570  sudo mkdir -p /etc/apt/keyrings
+  571  ls
+  572  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+  573  sudo
+  574  sudo snap iunstalll curl
+  575  sudo snap iunstal curl
+  576  sudo snap install curl
+  577  cd workspace
+  578  cd GNN
+  579  ls
+  580  source gnn_env/bin/activate
+  581  ls
+  582  jupyter notebook
+  583  cd workspace/GNN
+  584  ls
+  585  source gnn_env/bin/activate
+  586  pip list
+  587  NVIDIA-SMI
+  588  nvidia-smi -l 1
+  589  source gnn_env/bin/activate
+  590  cd GNN
+  591  cd workspace/GNN
+  592  source gnn_env/bin/activate
+  593  jupyter notebook
+  594  [200~git gui &
+  595  git gui &
+  596  sudo apt-get install git-gui
+  597  git gui
+  598  git gui &
+  599  ssh rsa
+  600  git config 
+  601  git config --show
+  602  git config -l
+  603  git config --list
+  604  git config --global user.name HIROAKI-KAJI
+  605  git config --global user.email kaji.tolearnprogramming@gmail.com
+  606  git config --list
+  607  ssh-keygen -t rsa -b 4096 -C kaji.tolearnprogramming@gmail.com
+  608  git gui
+  609  cd workspace
+  610  ls
+  611  cd GNN
+  612  ls
+  613  ls sources
+  614  git clone git@github.com:HIROAKI-KAJI/gnn-sample-mnist.git
+  615  cd workspace
+  616  source gnn_env/bin/activate
+  617  cd GNN
+  618  source gnn_env/bin/activate
+  619  jupyternotebook
+  620  cd ..
+  621  jupyter notebook
+  622  cd workspace/GNN
+  623  jupyter notebook
+  624  source gnn_env/bin/activate
+  625  jupyter notebook
+  626  jupter notebook
+  627  jupyter notebook
+  628  deactivate
+  629  source gnn_env/bin/activate
+  630  jupyter notebook
+  631  cd workspace
+  632  ls
+  633  cd GNN
+  634  ls
+  635  source gnn_env/bin/activate
+  636  jupyter notebook
+  637  ls
+  638  cd workspace
+  639  ls
+  640  mkdir dummy
+  641  cd dummy
+  642  gitclone https://github.com/ayukat1016/gan_sample.git
+  643  git clone https://github.com/ayukat1016/gan_sample.git
+  644  git gui
+  645  $ ls -laF --group-directories-first --color -h
+  646  ls -laF --group-directories-first --color -h
+  647  ls ^laf
+  648  ls -laf
+  649  ls -laF
+  650  sudo isof
+  651  lsof
+  652  lsof -i 8888
+  653  cd GNN
+  654  ls
+  655  cd workspace
+  656  cd GNN
+  657  source gnn_env/bin/activate
+  658  ls
+  659  jupyter notebook
+  660  pip install -U
+  661  pip install jupyter -U
+  662  jupyter notebook
+  663  jupyter notebook --port 12345
+  664  git gui
+  665  cd workspace
+  666  cd GNN
+  667  source gnn_env/bin/activate
+  668  jupyter notebook --port 12345
+  669  source gnn_env/bin/activate
+  670  cd workspace
+  671  cd GNN
+  672  source gnn_env/bin/activate
+  673  jupyter notebook
+  674  jupyter notebook --port 12345
+  675  git clone https://github.com/HIROAKI-KAJI/MyLogger.git
+  676  git config
+  677  git config -l
+  678  git gui
+  679  git clone git@github.com:HIROAKI-KAJI/MyLogger.git
+  680  cd workspace
+  681  cd GNN
+  682  source gnn_env/bin/activate
+  683  jupyter notebook --port 12345
+  684  /usr/bin/python3 /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.18.1-linux-x64/python_files/printEnvVariablesToFile.py /home/hiroakikaji/.vscode/extensions/ms-python.python-2024.18.1-linux-x64/python_files/deactivate/bash/envVars.txt
+  685  cd /home/hiroakikaji/workspace/demos/stylegan2
+  686  source venv/bin/activate
+  687  pip list
+  688  nvcc test_nvcc.cu -o test_nvcc -run
+  689  | CPU says hello.
+  690  nvcc test_nvcc.cu -o test_nvcc -run
+  691  sudo apt install nvidia-cuda-toolkit
+  692  nvcc test_nvcc.cu -o test_nvcc -run
+  693  | CPU says hello.
+  694  nvcc test_nvcc.cu -o test_nvcc -run
+  695  deactivate
+  696  cd [200~/home/hiroakikaji/workspace/demos/stylegan2~
+  697  cd home/hiroakikaji/workspace/demos/stylegan2
+  698  cd/ home/hiroakikaji/workspace/demos/stylegan2
+  699  cd /home/hiroakikaji/workspace/demos/stylegan2
+  700  # Generate uncurated ffhq images (matches paper Figure 12)
+  701  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl \
+  702    --seeds=6600-6625 --truncation-psi=0.5
+  703  # Generate curated ffhq images (matches paper Figure 11)
+  704  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl \
+  705    --seeds=66,230,389,1518 --truncation-psi=1.0
+  706  # Generate uncurated car images
+  707  python run_generator.py generate-images --network=gdrive:networks/stylegan2-car-config-f.pkl \
+  708    --seeds=6000-6025 --truncation-psi=0.5
+  709  # Example of style mixing (matches the corresponding video clip)
+  710  python run_generator.py style-mixing-example --network=gdrive:networks/stylegan2-ffhq-config-f.pkl \
+  711    --row-seeds=85,100,75,458,1500 --col-seeds=55,821A
+  712  nvcc -h
+  713  [200~python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl   --seeds=6600-6625 --truncation-psi=0.5
+  714  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl   --seeds=6600-6625 --truncation-psi=0.5
+  715  pip install numpy
+  716  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl   --seeds=6600-6625 --truncation-psi=0.5
+  717  pip install pillow
+  718  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl   --seeds=6600-6625 --truncation-psi=0.5
+  719  pip install tensorflow
+  720  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl   --seeds=6600-6625 --truncation-psi=0.5
+  721  pip install -r req.txt
+  722  dir
+  723  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl   --seeds=6600-6625 --truncation-psi=0.5
+  724  pip install tensorflow.contrib
+  725  pip install tensorflow
+  726  python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl   --seeds=6600-6625 --truncation-psi=0.5
+  727  python3
+  728  pip install -r rew.txt
+  729  pip install -r re1.txt
+  730  pip install -r req.txt
+  731  deactivate
+  732  cls
+  733  cd home/hiroakikaji/workspace
+  734  cd workspace
+  735  cd neoBilliard
+  736  dir
+  737  mkdir flutter_sdk
+  738  cd fluttter_sdk
+  739  cd flutter_sdk
+  740  dire
+  741  dir
+  742  sudo apt-get update -y && sudo apt-get upgrade -y;
+  743  sudo apt-get install -y curl git unzip xz-utils zip libglu1-mesa
+  744  [200~sudo apt-get update -y && sudo apt-get upgrade -y;~
+  745  sudo apt-get update -y && sudo apt-get upgrade -y;
+  746  sudo apt-get install -y curl git unzip xz-utils zip libglu1-mesa
+  747  tar -xf flutter_linux_3.29.2-stable.tar.xz -C ~/development/
+  748  tar -xf ./flutter_linux_3.29.2-stable.tar.xz -C ~/development/
+  749  dir
+  750  ls
+  751  tar -xf flutter_linux_3.29.2-stable.tar.xz -C ~.
+  752  tar -xf flutter_linux_3.29.2-stable.tar.xz -C ~/
+  753  tar -xf flutter_linux_3.29.2-stable.tar.xz 
+  754  cd ..
+  755  demos
+  756  mkdir demos
+  757  cd demos
+  758  git clone https://github.com/NVlabs/stylegan2.git
+  759  cd stylegan2
+  760  pip install -r requirements.txt
+  761  dir
+  762  cd ..
+  763  cd stylegan2
+  764  mkdir venv
+  765  python3 -m venv 
+  766  python3 venv -m 
+  767  python3. venv -m 
+  768  python3 venv -m venv
+  769  python3 =V
+  770  python3 -V
+  771  python3 -m venv
+  772  python3 -m venv venv
+  773  source venv/bin/activate
+  774  pip install torch
+  775  pip install jupyter
+  776  jupyter note
+  777  jupyter notes
+  778  jupyter notebook
+  779  /bin/python3 /home/hiroakikaji/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/hiroakikaji/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  780  cd workspace
+  781  cd demos
+  782  git clone https://github.com/ultralytics/ultralytics.git
+  783  python3 -m venv venv
+  784  source venv/bin/activate
+  785  for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
+  786  sudo service docker start
+  787  cd ultralytics
+  788  ls
+  789  sudo service docker start
+  790  pip intall jupyter notebook
+  791  pip install jupyter notebook
+  792  jupyter notebook
+  793  cd workspace
+  794  mkdir cputest
+  795  cd cputest
+  796  python3 -m venv venv
+  797  source venv/bin/activate
+  798  pip3 install glances
+  799  glances
+  800  /bin/python3 /home/hiroakikaji/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/hiroakikaji/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  801  flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+  802  && flatpak install flathub md.obsidian.Obsidian
+  803  & flatpak install flathub md.obsidian.Obsidian
+  804  flatpak install flathub md.obsidian.Obsidian
+  805  snap install  ./obsidian_1.0.3_amd64.snap
+  806  cd workspace
+  807  ls
+  808  cd Kaggle
+  809  ls
+  810  cd ..
+  811  mkdir GAN
+  812  rm GAN
+  813  rm GAN -r
+  814  mkdir GAT
+  815  cd GAT
+  816  ls
+  817  git clone https://github.com/PetarV-/GAT.git
+  818  sl
+  819  ls
+  820  cd GAT
+  821  ls
+  822  python3 execute_cora.py
+  823  python3 -m venv venv
+  824  source venv/bin/activate
+  825  pipi innstall tensorflow
+  826  pip install tensorflow
+  827  pip install numpy
+  828  python3 execute_cora.py
+  829  cd ..
+  830  deactivate
+  831  python3 -m venv venv
+  832  source venv/bin/activate
+  833  pip install torch
+  834  git clone https://github.com/Diego999/pyGAT.git
+  835  cd pyGAT
+  836  python3 visualizze_graph.py
+  837  ls
+  838  python3 visualize_graph.py
+  839  pip install requirements.txt -r
+  840  pip install -r requirements.txt
+  841  pip install requirements.txt -r
+  842  pip install -r requirements.txt
+  843  pip install numpy
+  844  pip install -r requirements.txt
+  845  pip install scipy
+  846  pip install torch
+  847  python3 visualize_graph.py
+  848  pip install graphviz
+  849  python3 visualize_graph.py
+  850  cd /home/hiroakikaji/workspace/GAT/pyGAT/layers.py
+  851  cd home/hiroakikaji/workspace/GAT/pyGAT/layers.py
+  852  cd home/hiroakikaji/workspace/GAT/pyGAT
+  853  cd workspace/GAT/pyGAT
+  854  ls
+  855  cd ..
+  856  ls
+  857  source venv/bin/activate
+  858  cd pyGAT
+  859  ls
+  860  pip install jupyter
+  861  jupyter notebook
+  862  cd workspace
+  863  ls
+  864  cd MUSIC_CODE
+  865  https://github.com/HIROAKI-KAJI/music_code_instability.git
+  866  git init
+  867  git push
+  868  git clone https://github.com/HIROAKI-KAJI/music_code_instability.git
+  869  ls
+  870  cd music_code_instability
+  871  ls
+  872  cd ..
+  873  ls
+  874  python3 -m venv venv
+  875  source venv/bin/activate
+  876  cd music_code_instability
+  877  ls
+  878  pip install jupyter notebook
+  879  pip list
+  880  pip install torch
+  881  jupyter notebook
+  882  ls
+  883  cd workspace
+  884  ls
+  885  mkdir Kaggle
+  886  cd Kaggle
+  887  mkdir stanfordRNA_3dFolding
+  888  cd stanfordRNA_3dFolding
+  889  python3 -m venv venv
+  890  mkdir arcPrize2025
+  891  cd arcPrize2025
+  892  dir
+  893  kaggle competitions download -c arc-prize-2025
+  894  apt get kaggle
+  895  pip install kaggle
+  896  kaggle competitions download -c arc-prize-2025
+  897  apt get ffmpeg
+  898  apt get install ffmpeg
+  899  sudo apt install ffmpeg
+  900  cd workspace
+  901  ./music_boot.sh
+  902  chmod 777 music_boot.sh
+  903  ./music_boot.sh
+  904  cd MUSIC_CODE; 
+  905  source venv/bin/activate;
+  906  cd music_code_instability;echo "booted";
+  907  jupyter notebook
+  908  cd workspace]
+  909  cd workspace
+  910  ls
+  911  200~music_boot.sh
+  912  music_boot.sh
+  913  ./music_boot.sh
+  914  cd MUSIC_CODE; 
+  915  source venv/bin/activate;
+  916  cd music_code_instability;echo "booted";
+  917  jupyter notebook
+  918  cd workspace
+  919  cd GoEmotions;
+  920  source venv/bin/activate;
+  921  echo booted;
+  922  pip liste
+  923  pip list
+  924  pip install torch
+  925  pip install transformer
+  926  pip install transformers
+  927  pip install hf_xet
+  928  cd workspacd
+  929  cd workspace
+  930  cd GoEmotions
+  931  git init
+  932  git commit
+  933  git add scripts/
+  934  git commit
+  935  git push
+  936  git push GoEmotion_Sample
+  937  echo "# GoEmotions" >> README.md
+  938  git init
+  939  git add README.md
+  940  git commit -m "first commit"
+  941  git branch -M main
+  942  git remote add origin https://github.com/HIROAKI-KAJI/GoEmotions.git
+  943  git push -u origin main
+  944  echo "# GoEmotions" >> README.md
+  945  git init
+  946  git add README.md
+  947  git commit -m "first commit"
+  948  git branch -M main
+  949  git remote add origin https://github.com/HIROAKI-KAJI/GoEmotions.git
+  950  git push -u origin main
+  951  git remote add origin https://github.com/HIROAKI-KAJI/GoEmotions.git
+  952  git branch -M main
+  953  git push -u origin main
+  954  git clone https://github.com/HIROAKI-KAJI/GoEmotions.git
+  955  git commit all
+  956  git commit -all
+  957  git commit --all
+  958  git add GoEmotions/
+  959  git add GoEmotions
+  960  git add -h
+  961  git add -A
+  962  git add
+  963  git add .
+  964  s
+  965  git add .
+  966  git commit 
+  967  git push
+  968  git push --set-upstream origin main
+  969  cd MUSIC_CODE; 
+  970  source venv/bin/activate;
+  971  cd music_code_instability;echo "booted";
+  972  cd workspace
+  973  cd MUSIC_CODE; 
+  974  source venv/bin/activate;
+  975  cd music_code_instability;echo "booted";
+  976  JUPTER NOTEBOOK
+  977  jupter notebook
+  978  jupyter notebook
+  979  cd GoEmotions;
+  980  source venv/bin/activate;
+  981  echo booted;
+  982  cd workspace
+  983  cd GoEmotions;
+  984  source venv/bin/activate;
+  985  echo booted;
+  986  pip install matplotlib tqdm
+  987  git configre
+  988  git config
+  989  git config --global
+  990  git config -global
+  991  git config --global
+  992  git config --global --get
+  993  git config --get
+  994  cd workspace
+  995  ls
+  996  cd demos
+  997  ls
+  998  cd ..
+  999  cd dumm
+ 1000  cd dummy
+ 1001  ls
+ 1002  cd ..
+ 1003  cd cputest
+ 1004  ls
+ 1005  source venv/bin/activate
+ 1006  pip list
+ 1007  glances
+ 1008  cd ..
+ 1009  zip GoEmotions_backup_20250422
+ 1010  zip GoEmotions_backup_20250422 GoEmotions_backup_20250422
+ 1011  ls
+ 1012  CD WORKSPACE 
+ 1013  cd workspacd
+ 1014  cd workspace
+ 1015  cd GoEmotions;
+ 1016  source venv/bin/activate;
+ 1017  echo booted;
+ 1018  git commit 
+ 1019  git commit -a
+ 1020  git push
+ 1021  git init
+ 1022  git commit
+ 1023  git commit -a
+ 1024  git add 
+ 1025  git add .
+ 1026  git commit
+ 1027  git commit -a
+ 1028  git push
+ 1029  pip freeze > req.txt
+ 1030  git fetch
+ 1031  git show
+ 1032  git commit -a
+ 1033  git push
+ 1034  git config
+ 1035  git config -global
+ 1036  git config --global
+ 1037  git config --global --get
+ 1038  git config --global get
+ 1039  GIT BRANCH
+ 1040  git branth
+ 1041  git branch
+ 1042  git remote
+ 1043  git push
+ 1044  git remote
+ 1045  git push
+ 1046  jupyter notebook
+ 1047  cd eokspace
+ 1048  cd workspace
+ 1049  mkdir GoEmotions
+ 1050  cd GoEmotions
+ 1051  python3 -m venv venv
+ 1052  source venv/bin/activate
+ 1053  pip install datasets
+ 1054  pip install jupyter
+ 1055  jupyter notebook
+ 1056  nvidia-smi
+ 1057  nvidia-smi -l 1
+ 1058  hdparm -I /dev/sdb
+ 1059  SUDO hdparm -I /dev/sdb
+ 1060  sudo hdparm -I /dev/sdb
+ 1061  $ sudo apt install smartmontools -y
+ 1062  sudo apt install smartmontools -y
+ 1063  smartmontools
+ 1064  sudo lshw -short | grep disk
+ 1065  lsdlk
+ 1066  lsblk
+ 1067  df /
+ 1068  sudo lshw -short | grep disk
+ 1069  [200~sudo fdisk -l
+ 1070  sudo fdisk -l
+ 1071  sudo lshw -short | grep disk
+ 1072  sudo lshw -short
+ 1073  [200~gnome-disks~
+ 1074  gnome-disks
+ 1075  CD ..
+ 1076  cd ..
+ 1077  zip DONUT_SAMPLEメモ付き_cdonut_base_finetuned_cord_v2_230615.ipynb
+ 1078  zip DONUT_SAMPLEメモ付き_cdonut_base_finetuned_cord_v2_230615.ipynb DONUT_SAMPLEメモ付き_cdonut_base_finetuned_cord_v2_230615.ipynb
+ 1079  zip DONUT_SAMPLEメモ付き_cdonut_base_finetuned_cord_v2_230615.ipynb DONUT_SAMPLEメモ付き_cdonut_base_finetuned_cord_v2_230615
+ 1080  zip "DONUT_SAMPLE.zip" "DONUT_SAMPLEメモ付き_cdonut_base_finetuned_cord_v2_230615.ipynb"
+ 1081  cd workspcae
+ 1082  cd workspace
+ 1083  ls
+ 1084  mkdir donut_demo
+ 1085  cd donut_demo
+ 1086  python3 -m venv venv
+ 1087  source venv/bin/activate
+ 1088  pip install jupyter
+ 1089  git clone https://github.com/clovaai/donut.git
+ 1090  jupyter notebook
+ 1091  source venv/bin/activate
+ 1092  ls
+ 1093  cd donut
+ 1094  ls
+ 1095  python3 app.py
+ 1096  pip install gradio
+ 1097  python3 app.py
+ 1098  pip install torch
+ 1099  python3 app.py
+ 1100  pip install timm
+ 1101  python3 app.py
+ 1102  pip install transformers
+ 1103  python3 app.py
+ 1104  pip install zss
+ 1105  python3 app.py
+ 1106  pip install nltk
+ 1107  python3 app.py
+ 1108  pip install sentencepiece
+ 1109  python3 app.py
+ 1110  ls
+ 1111  mkdir workspace_off
+ 1112  cd workspace_off
+ 1113  ls
+ 1114  mkdir donut
+ 1115  cd donut
+ 1116  git clone https://github.com/HIROAKI-KAJI/donut_demo.git
+ 1117  python3 -m venv venv
+ 1118  source venv/bin/activate
+ 1119  pip install datasets
+ 1120  pip install transformer
+ 1121  pip install transformers
+ 1122  ls
+ 1123  cd donut=sample
+ 1124  cd donut_demo
+ 1125  python3 DocumentParsing_sample.py
+ 1126  pip install torch
+ 1127  python3 DocumentParsing_sample.py
+ 1128  pip install pillow
+ 1129  python3 DocumentParsing_sample.py
+ 1130  $ pip install protobuf
+ 1131  pip install protobuf
+ 1132  python3 DocumentParsing_sample.py
+ 1133  pip install sentencepiece
+ 1134  python3 DocumentParsing_sample.py
+ 1135  pip install flet opencv-python transformers datasets torch sentencepiece
+ 1136  python3 ./docParsing/docParsingMain.py
+ 1137  sudo apt update
+ 1138  sudo apt install libmpv1
+ 1139  pip3 install torch torchvision torchaudio
+ 1140  python3 ./docParsing/docParsingMain.py
+ 1141  hisutory >> text.txt
+ 1142  history >> text.txt

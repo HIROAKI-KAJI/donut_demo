@@ -11,6 +11,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
 # load document image
 dataset = load_dataset("hf-internal-testing/example-documents", split="test")
+
 image = dataset[2]["image"]
 
 # prepare decoder inputs
