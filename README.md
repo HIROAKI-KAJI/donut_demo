@@ -3,6 +3,8 @@
 ## donut investigation
 
    [詳細な説明を見る](docs/donutmemo.md)
+   
+   [学習データセット作成](docs/makedataset.md)
 
 ## references
 #### sample codes
